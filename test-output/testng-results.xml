@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-17T08:24:12 IST" name="Default suite" finished-at="2024-02-17T08:25:31 IST" duration-ms="78813">
+    <groups>
+    </groups>
+    <test started-at="2024-02-17T08:24:12 IST" name="Default test" finished-at="2024-02-17T08:25:31 IST" duration-ms="78813">
+      <class name="org.mpasis.automation.uo.testcases.SignInScenario_ddf">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:12 IST" name="launchBrowser" finished-at="2024-02-17T08:24:18 IST" duration-ms="6165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_signin_func(java.lang.String,java.lang.String)[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:18 IST" name="validate_signin_func" data-provider="staticdata" finished-at="2024-02-17T08:24:33 IST" duration-ms="14900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_signin_func -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:33 IST" name="closeBrowser" finished-at="2024-02-17T08:24:34 IST" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:34 IST" name="launchBrowser" finished-at="2024-02-17T08:24:39 IST" duration-ms="5113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_signin_func(java.lang.String,java.lang.String)[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:39 IST" name="validate_signin_func" data-provider="staticdata" finished-at="2024-02-17T08:24:55 IST" duration-ms="16258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_signin_func -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:55 IST" name="closeBrowser" finished-at="2024-02-17T08:24:55 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:24:55 IST" name="launchBrowser" finished-at="2024-02-17T08:25:02 IST" duration-ms="6442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validate_signin_func(java.lang.String,java.lang.String)[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:25:02 IST" name="validate_signin_func" data-provider="staticdata" finished-at="2024-02-17T08:25:29 IST" duration-ms="27020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_signin_func -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.mpasis.automation.uo.testcases.SignInScenario_ddf@5824a83d]" started-at="2024-02-17T08:25:29 IST" name="closeBrowser" finished-at="2024-02-17T08:25:31 IST" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.mpasis.automation.uo.testcases.SignInScenario_ddf -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
